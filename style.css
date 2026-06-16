@@ -593,6 +593,7 @@ section:not(#hero) {
   font-size: 32px;
   margin-bottom: 6px;
   letter-spacing: 0.5px;
+  text-transform: none;
 }
 
 .eco-tagline {
