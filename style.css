@@ -589,11 +589,11 @@ section:not(#hero) {
 }
 
 .eco-card h3 {
-  font-family: var(--font-display);
-  font-size: 32px;
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 28px;
   margin-bottom: 6px;
-  letter-spacing: 0.5px;
-  text-transform: none;
+  letter-spacing: normal;
 }
 
 .eco-tagline {
